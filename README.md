@@ -1,3 +1,3 @@
 # TSK-FS
-Takagi-Sugeno-Kang Fuzzy System by Yuqi Cui.
+Takagi-Sugeno-Kang Fuzzy System by Yuqi Cui.\n
 Need to install skfuzzy
