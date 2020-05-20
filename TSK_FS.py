@@ -4,7 +4,7 @@ from fuzzy_cluster import ESSC
 from scipy.special import softmax
 
 
-class FuzzyBoostClassifier:
+class TSKFuzzyClassifier:
     def __init__(self, alpha=0, estimator='logistic', estimator_c=1., n_cluster=2, cluster_m=2, cluster_eta=0.1,
                  cluster_gamma=0.1, max_iter=10, cluster_scale=1., order=1, min_cluster_sample=10, n_jobs=5, fl_threshold=0.2):
         """
