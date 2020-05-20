@@ -1,6 +1,6 @@
 import numpy as np
 from sklearn.linear_model import LogisticRegression, RidgeClassifier
-from lib.fuzzy_cluster import ESSC
+from fuzzy_cluster import ESSC
 from scipy.special import softmax
 
 
